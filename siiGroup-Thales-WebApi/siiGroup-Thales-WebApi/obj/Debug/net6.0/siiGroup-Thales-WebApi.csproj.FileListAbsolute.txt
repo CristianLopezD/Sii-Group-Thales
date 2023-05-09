@@ -1,0 +1,153 @@
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\appsettings.json
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.exe
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.deps.json
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.runtimeconfig.json
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.pdb
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.csproj.AssemblyReference.cache
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.AssemblyInfoInputs.cache
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.AssemblyInfo.cs
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.csproj.CoreCompileInputs.cache
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\scopedcss\bundle\siiGroup-Thales-WebApi.styles.css
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.csproj.CopyComplete
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\refint\siiGroup-Thales-WebApi.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.pdb
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.genruntimeconfig.cache
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\ref\siiGroup-Thales-WebApi.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cristian\Sii Group\Thales\Code\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\appsettings.json
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.exe
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.deps.json
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.runtimeconfig.json
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\siiGroup-Thales-WebApi.pdb
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Azure.Core.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Azure.Identity.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.csproj.AssemblyReference.cache
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.AssemblyInfoInputs.cache
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.AssemblyInfo.cs
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.csproj.CoreCompileInputs.cache
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.siiGroup-Thales-WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.siiGroup-Thales-WebApi.props
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.siiGroup-Thales-WebApi.props
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.siiGroup-Thales-WebApi.props
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\scopedcss\bundle\siiGroup-Thales-WebApi.styles.css
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.csproj.CopyComplete
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\refint\siiGroup-Thales-WebApi.dll
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.pdb
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\siiGroup-Thales-WebApi.genruntimeconfig.cache
+E:\Code\siiGroup\siiGroup-Thales-WebApi\siiGroup-Thales-WebApi\obj\Debug\net6.0\ref\siiGroup-Thales-WebApi.dll

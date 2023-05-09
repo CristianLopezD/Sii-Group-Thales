@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+<div id="app">
+    <form>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Filter by Employee</label>
+            <div class="input-group mb-3">
+                <input id="inpSearch" type="number" class="form-control" placeholder="Employee ID" aria-describedby="basic-addon2">
+                <div class="input-group-append">
+                    <button id="btnSearch" class="btn btn-primary" type="button">Search</button>
+                </div>
+            </div>
+            <small id="emailHelp" class="form-text text-muted">Optional Employee ID filter*</small>
+        </div>
+    </form>
+
+    <table class="table"
+           id="table"
+           data-toolbar=".toolbar"
+           data-height="400"
+           data-virtual-scroll="true"
+           data-show-columns="true">
+
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">PayrollId</th>
+                <th scope="col">Employee ID</th>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Address</th>
+                <th scope="col">Hire Date</th>
+                <th scope="col">Pay Period ID</th>
+                <th scope="col">Period Name</th>
+                <th scope="col">Net Pay</th>
+                <th scope="col">Annual Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr v-for="(employee, index) in employees" :key="index">
+                <th scope="row">{{ index + 1 }}</th>
+                <td>{{ employee.EmployeeID }}</td>
+                <td>{{ employee.FirstName }}</td>
+                <td>{{ employee.LastName }}</td>
+                <td>{{ employee.Address }}</td>
+                <td>{{ employee.HireDate }}</td>
+                <td>{{ employee.PayPeriodID }}</td>
+                <td>{{ employee.PeriodName }}</td>
+                <td>{{ employee.NetPay }}</td>
+                <td>{{ employee.AnualSalary }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@section Scripts{
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
+    <script>
+        var app = new Vue({
+            el: '#app',
+            data: {
+                employees: []
+            },
+            methods: {
+                getData() {
+                    let id = document.getElementById("inpSearch").value;
+                    let idParam = id === undefined ? '' : '?id=' + id;
+                    $.ajax({
+                        url: '@Url.Action("Get", "Home")' + idParam,
+                        type: 'POST',
+                        data: id,
+                        dataType: 'json',
+                        contentType: 'application/json; charset=utf-8',
+                        success: function (data) {
+                            if (data.result.includes("Error:")) {
+                                app.showAlert(data.result, "danger");
+                            }
+                            else{
+                                app.employees = JSON.parse(data.data);
+                                app.showAlert("Correctly returned data..", "success");
+                            }
+                        }
+                    });
+                },
+                showAlert(message, type) {
+                    const alertDiv = document.createElement("div");
+                    alertDiv.className = `alert alert-${type} alert-dismissible fade show fixed-top`;
+                    alertDiv.role = "alert";
+                    alertDiv.innerHTML = `
+                            ${message}
+                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                          `;
+                    document.body.appendChild(alertDiv);
+                    setTimeout(() => {
+                        alertDiv.remove();
+                    }, 5000);
+                }
+            }
+        });
+
+        $('#btnSearch').click(function () {
+            app.getData();
+        });
+    </script>
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\siiGroup_Thales_WebApp.props" />
+</Project>

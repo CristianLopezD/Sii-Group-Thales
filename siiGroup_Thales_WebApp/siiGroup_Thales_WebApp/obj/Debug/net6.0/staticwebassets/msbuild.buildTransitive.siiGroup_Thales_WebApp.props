@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\siiGroup_Thales_WebApp.props" />
+</Project>
